@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "e2e": "cd frontend && npx playwright test"
+  },
+  "devDependencies": {
+    "playwright": "^1.53.1"
+  }
+}
