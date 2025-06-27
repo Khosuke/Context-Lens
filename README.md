@@ -73,5 +73,5 @@ Context-Lens/
 
 # Author
 
-**Your Name**  
-[GitHub](https://github.com/Khosuke) • [LinkedIn](https://linkedin.com/in/your-handle) • [Email](mailto:your@email.com)
+**Frédéric Iglesias Montero**  
+[GitHub](https://github.com/Khosuke) • [LinkedIn](https://www.linkedin.com/in/frédéric-iglesias-montero-39b864359/) • [Email](frederic.iglesias.montero@gmail.com)
